@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @rony0000013
 - 👀 I’m interested in Programming.
-- 🌱 I’m currently learning Btech CSE.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me on ...
+- 🌱 I’m currently learning Btech CSBS.
+- 💞️ I’m looking to collaborate on Programming Projects.
+- 📫 How to reach me on Github.
 
 <!---
 rony0000013/rony0000013 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
