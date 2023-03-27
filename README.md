@@ -17,8 +17,8 @@ I'm <span style="color: green">Rounak Sen</span> from Serampore, India
 - ## 📚 I'm currently learning 🤖 AI, ML, 🌐 Web Dev, 🔐 Cybersecurity and many more.
 - ## ⚡ In my free time I - 
     - ### Read Books 📚
-    - ### Play Podcasts🎧
-    - ### Play PC games🎮
+    - ### Listen to Podcasts and Music 🎧
+    - ### Play PC games 🎮
     - ### Watch movies 🎬 and Web-Series 🎞 
     - ### Curiously, Explore the Internet for 🤪 strange and wonderful insights 💡.
   
