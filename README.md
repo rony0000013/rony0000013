@@ -98,7 +98,7 @@ I'm <span style="color: green">Rounak Sen</span> from Serampore, India
   <a href="https://discord.com/channels/rony000013#2696/">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="discord logo"  />
   </a>
-  <a href="https://www.kaggle.com/rony0000013/" target="_blank">
+  <a href="https://www.kaggle.com/rony000013" target="_blank">
     <img src=https://img.shields.io/badge/kaggle-%2344BAE8.svg?&style=for-the-badge&logo=kaggle&logoColor=white alt=kaggle height="40" />
   </a> 
   <a href="https://www.hackerrank.com/rony000013/">
