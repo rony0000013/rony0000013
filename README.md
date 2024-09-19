@@ -33,6 +33,7 @@ I'm <span style="color: green">Rounak Sen</span> from Serampore, India
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" width="60" alt="python logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="50" width="60" alt="c logo"  />
   <img height="50" src="https://user-images.githubusercontent.com/25181517/192106073-90fffafe-3562-4ff9-a37e-c77a2da0ff58.png" alt="C++" title="C++" />
+  <img src="https://icons.veryicon.com/png/o/business/vscode-program-item-icon/rust-1.png" alt="rust logo" height="50"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" width="60" alt="css3 logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" width="60" alt="html5 logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" width="60" alt="javascript logo"  />
@@ -93,14 +94,17 @@ I'm <span style="color: green">Rounak Sen</span> from Serampore, India
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
   </a>
   <a href="https://twitter.com/Rounak_Sen_404/">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="twitter logo"  />
+    <img src="https://img.shields.io/static/v1?message=Twitter&logo=x&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="twitter logo"  />
   </a>
   <a href="https://discord.com/channels/rony000013#2696/">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="discord logo"  />
   </a>
   <a href="https://www.kaggle.com/rony000013" target="_blank">
-    <img src=https://img.shields.io/badge/kaggle-%2344BAE8.svg?&style=for-the-badge&logo=kaggle&logoColor=white alt=kaggle height="40" />
+    <img src="https://img.shields.io/badge/kaggle-%2344BAE8.svg?&style=for-the-badge&logo=kaggle&logoColor=white" alt=kaggle height="40" />
   </a> 
+  <a href="https://www.leetcode.com/u/rony000013/">
+    <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=white&color=e8a725" height="40" alt="hackerrank logo"  />
+  </a>
   <a href="https://www.hackerrank.com/rony000013/">
     <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="hackerrank logo"  />
   </a>
