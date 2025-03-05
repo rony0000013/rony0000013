@@ -13,14 +13,13 @@ I'm <span style="color: green">Rounak Sen</span> from Serampore, India
 # 👩‍💻  About Me
 
 
-- ## 🧾 I’m currently pursuing 🎓 B-Tech UnderGraduation at CSBS  💻(Computer Science And Business Systems) from 🏫 Academy of Technology, Adisptagram, Hooghly, West Bengal India.
-- ## 📚 I'm currently learning 🤖 AI, ML, 🌐 Web Dev, 🔐 Cybersecurity and many more.
-- ## ⚡ In my free time I - 
-    - ### Read Books 📚
-    - ### Listen to Podcasts and Music 🎧
-    - ### Play PC games 🎮
-    - ### Watch movies 🎬 and Web-Series 🎞 
-    - ### Curiously, Explore the Internet for 🤪 strange and wonderful insights 💡.
+- ### 🎓 I’m a B-Tech student in Computer Science & Business Systems at Academy of Technology, India, passionate about solving real-world problems with technology.
+
+- ### 🤖 I’m skilled in AI, ML, web development, and cybersecurity, with hands-on experience from internships at Large Efforts LLC and Parentheses Labs, where I built scalable systems and AI models.
+
+- ### 🌟 I’m an active tech community member, mentoring peers and contributing to open-source projects, with a published paper on Mamba models and awards like GATE 2024 AIR 2118.
+
+- ### ⚡ In my free time, I love 📚 reading, 🎮 gaming, 🎧 listening to music and podcasts, and exploring the internet for quirky insights!
   
 <br>  
 
