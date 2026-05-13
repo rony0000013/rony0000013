@@ -1,163 +1,210 @@
-<h1 align="center">Hi There 👋 And Namaste 🙏 <br><br>
-I'm <span style="color: green">Rounak Sen</span> from Serampore, India
-</h1>
+<h1 align="center">Hi, I'm Rounak Sen 👋🏿</h1>
 
-<br>
 <div align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=17F71C&center=true&vCenter=true&width=435&lines=Never+Stop+Learning.;Never+Stop+Exploring.;Keep+on+Improving.)](https://git.io/typing-svg)
-</div>
-
-<br>
-
-# 👩‍💻  About Me
-
-
-- ### 🎓 I’m a B-Tech student in Computer Science & Business Systems at Academy of Technology, India, passionate about solving real-world problems with technology.
-
-- ### 🤖 I’m skilled in AI, ML, web development, and cybersecurity, with hands-on experience from internships at Large Efforts LLC and Parentheses Labs, where I built scalable systems and AI models.
-
-- ### 🌟 I’m an active tech community member, mentoring peers and contributing to open-source projects, with a published paper on Mamba models and awards like GATE 2024 AIR 2118.
-
-- ### ⚡ In my free time, I love 📚 reading, 🎮 gaming, 🎧 listening to music and podcasts, and exploring the internet for quirky insights!
+  <p><strong>M.Tech in AR/VR at IIT Jodhpur | AI Researcher</strong></p>
   
-<br>  
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=17F71C&center=true&vCenter=true&width=700&lines=Building+AR%2FVR+Experiences.;Developing+High-Performance+Rust+Systems.;Deep+Learning+%26+AI+Research.;Scaling+Software+Solutions.)](https://git.io/typing-svg)
 
-###
+  <br>
 
-# 👨‍💻 Language :
-
-<div align="center">
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" width="60" alt="python logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="50" width="60" alt="c logo"  />
-  <img height="50" src="https://user-images.githubusercontent.com/25181517/192106073-90fffafe-3562-4ff9-a37e-c77a2da0ff58.png" alt="C++" title="C++" />
-  <img src="https://icons.veryicon.com/png/o/business/vscode-program-item-icon/rust-1.png" alt="rust logo" height="50"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" width="60" alt="css3 logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" width="60" alt="html5 logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" width="60" alt="javascript logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="50" width="60" alt="typescript logo"  />
-  <img src="https://skillicons.dev/icons?i=bash" height="50" width="60" alt="bash logo"  />
-</div>
-<br>
-
-# 🛠 Tools :
-
-<div align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="50" width="60" alt="jupyter logo"  />
-<img src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png" alt="Visual Studio Code" height="50" width="60" title="Visual Studio Code" />
-<img src="https://skillicons.dev/icons?i=markdown" height="50" width="60" alt="markdown logo"  />
-<img src="https://profilinator.rishav.dev/skills-assets/powershell.png" alt="PowerShell" height="50" width="60" />  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50" width="60" alt="git logo"  />
-<img src="https://skillicons.dev/icons?i=github" height="50" width="60" alt="github logo"  />
-<br>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="50" width="60" alt="figma logo"  />
-<img src="https://profilinator.rishav.dev/skills-assets/blender_community_badge_white.svg" alt="Blender" height="50" />  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="50" width="60" alt="google logo"  />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="50" width="60" alt="linux logo"  />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/debian/debian-original.svg" height="50" width="60" alt="debian logo"  />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="50" width="60" alt="windows8 logo"  />
-
-</div>
-<br>
-
-# 🧰 Frameworks :
-
-<div align="center">
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="50" width="60" alt="numpy logo"  />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="50" width="60" alt="pandas logo"  />
-<img src="https://upload.wikimedia.org/wikipedia/commons/1/10/PyTorch_logo_icon.svg" alt="Pytorch" height="50" width="50" title="Pytorch" />
-<img src="https://user-images.githubusercontent.com/25181517/223639822-2a01e63a-a7f9-4a39-8930-61431541bc06.png" alt="TensorFlow" height="50" width="50" title="TensorFlow" />
-<img src="https://profilinator.rishav.dev/skills-assets/keras.png" alt="Keras" height="50" width="50" style="margin: 0 5px 0 5px" />  
-<img src="https://profilinator.rishav.dev/skills-assets/opencv-icon.svg" alt="OpenCV" height="50" width="60" />  
-<img src="https://skillicons.dev/icons?i=django" height="50" width="60" alt="django logo"  />
-<img src="https://skillicons.dev/icons?i=flask&theme=light" height="50" width="60" alt="flask logo"  />
-<br>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="50" width="60" alt="npm logo"  />
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="50" width="60" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="50" width="60" alt="bootstrap logo"  />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50" width="60" alt="react logo"  />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="50" width="60" alt="redux logo"  />
-<img src="https://skillicons.dev/icons?i=vite" height="50" width="60" alt="vite logo"  />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="50" width="60" alt="nodejs logo"  />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="50" width="60" alt="mysql logo"  />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlalchemy/sqlalchemy-original.svg" height="50" width="60" alt="sqlalchemy logo"  />
-
-<br>
-
-<h1 align="left"> 🗣 Socials : </h1>
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/rounak-sen/">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="https://twitter.com/Rounak_Sen_404/">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=x&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="twitter logo"  />
-  </a>
-  <a href="https://discord.com/channels/rony000013#2696/">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="discord logo"  />
-  </a>
-  <a href="https://www.kaggle.com/rony000013" target="_blank">
-    <img src="https://img.shields.io/badge/kaggle-%2344BAE8.svg?&style=for-the-badge&logo=kaggle&logoColor=white" alt=kaggle height="40" />
-  </a> 
-  <a href="https://www.leetcode.com/u/rony000013/">
-    <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=white&color=e8a725" height="40" alt="hackerrank logo"  />
-  </a>
-  <a href="https://www.hackerrank.com/rony000013/">
-    <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="hackerrank logo"  />
-  </a>
-  <a href="rony000013@proton.me">
-    <img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" height="40" alt="ProtonMail logo"  />
-  </a>
-  <a href="https://medium.com/@rony000013/">
-    <img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=12100E&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="medium logo"  />
-  </a>
+  [**Portfolio**](https://rounak-sen.vercel.app/) • [**Research Paper**](https://proceedings.scipy.org/articles/XHDR4700) • [**LinkedIn**](https://www.linkedin.com/in/rounak-sen/)
 </div>
 
 <br>
 
-# 🔥 My Stats :
+# 📖 About Me
 
-
-<div align="center">
-
-![profile-details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rony0000013&theme=highcontrast)
-<img src="https://streak-stats.demolab.com?user=rony0000013&locale=en&mode=weekly&theme=vision-friendly-dark&hide_border=true&border_radius=10&date_format=j M[ Y]&order=3" height="180" alt="streak graph" /> <br>
-
-![repos-per-language](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rony0000013&theme=highcontrast)
-![most-commit-language](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rony0000013&theme=highcontrast)
-![stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=rony0000013&theme=highcontrast)
-![productive-time](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rony0000013&theme=highcontrast&utcOffset=8)
-
-![](https://github-profile-trophy.vercel.app/?username=rony0000013&theme=onestar&no-frame=true&no-bg=false&margin-w=4)
-
-</div>
-<br>
-
-<div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&username=rony000013&theme=dark" alt="Layout with last medium posts"  />
-</div>
+- 🎓 **M.Tech Student** in **Augmented & Virtual Reality** at **IIT Jodhpur** (2025-2027).
+- 🦀 **Software Engineer** focused on **Rust** and **AI**, with experience in web scraping frameworks and AI detection systems.
+- 📜 **Researcher**: Published work on **Mamba Models** at **SciPy 2024**.
+- 🏆 **GATE Qualifier**: **AIR 418** in Data Science & AI (2025).
+- 🧩 **Coder**: Solved **800+ LeetCode problems** with a consistent daily streak.
 
 <br>
 
-# 🎶 My Listening Activivty 🎧
+# 🚀 Featured Projects
+
+- 🦀 **[BitTorrent-Rs](https://github.com/rony0000013/BitTorrent-Rs)**: A multithreaded BitTorrent Protocol implementation in Rust with magnet link support.
+- ⚡ **[ZigShell](https://github.com/rony0000013/zig-shell)**: A POSIX-compliant shell developed in Zig, featuring process management and piping.
+- 🎨 **[MangaIRO](https://github.com/rony0000013/MangaIRO)**: High-performance GAN-based model for automatic manga colorization using PyTorch.
+- 🐹 **[RedisGo](https://github.com/rony0000013/redis-go)**: A concurrent Redis-compatible in-memory database implemented in Go.
+- 📈 **[Unveil](https://github.com/rony00000013/Unveil)**: AI-powered stock learning platform integrating Gemini API and real-time market data.
+- 🧪 **[ArxivQ&Allm](https://github.com/rony0000013/arxiv-qa-llm-app)**: A RAG-based application for intelligent research paper analysis using Pathway and Gemini.
+
+<br>
+
+# 🛠️ Tech Stack
+
+### Languages & Logic
+<div align="left">
+  <img src="icons/rust.svg" width="38" height="38" style="background-color: #2D333B; border-radius: 10px; padding: 5px;" alt="Rust" />
+  <img src="icons/python.svg" width="38" height="38" style="background-color: #2D333B; border-radius: 10px; padding: 5px;" alt="Python" />
+  <img src="icons/typescript.svg" width="38" height="38" style="background-color: #2D333B; border-radius: 10px; padding: 5px;" alt="TypeScript" />
+  <img src="icons/javascript.svg" width="38" height="38" style="background-color: #2D333B; border-radius: 10px; padding: 5px;" alt="JavaScript" />
+  <img src="icons/go.svg" width="38" height="38" style="background-color: #2D333B; border-radius: 10px; padding: 5px;" alt="Go" />
+  <img src="icons/zig.svg" width="38" height="38" style="background-color: #2D333B; border-radius: 10px; padding: 5px;" alt="Zig" />
+  <img src="icons/c-plusplus.svg" width="38" height="38" style="background-color: #2D333B; border-radius: 10px; padding: 5px;" alt="C++" />
+  <img src="icons/c.svg" width="38" height="38" style="background-color: #2D333B; border-radius: 10px; padding: 5px;" alt="C" />
+  <img src="icons/sql.svg" width="38" height="38" style="background-color: #2D333B; border-radius: 10px; padding: 5px;" alt="SQL" />
+  <img src="icons/gleam.svg" width="38" height="38" style="background-color: #2D333B; border-radius: 10px; padding: 5px;" alt="Gleam" />
+  <img src="icons/html-5.svg" width="38" height="38" style="background-color: #2D333B; border-radius: 10px; padding: 5px;" alt="HTML5" />
+  <img src="icons/css-3.svg" width="38" height="38" style="background-color: #2D333B; border-radius: 10px; padding: 5px;" alt="CSS3" />
+  <img src="icons/bash.svg" width="38" height="38" style="background-color: #2D333B; border-radius: 10px; padding: 5px;" alt="Bash" />
+</div>
+
+### Neural Networks & AI
+<div align="left">
+  <img src="icons/pytorch.svg" width="38" height="38" style="background-color: #2D333B; border-radius: 10px; padding: 5px;" alt="PyTorch" />
+  <img src="icons/tensorflow.svg" width="38" height="38" style="background-color: #2D333B; border-radius: 10px; padding: 5px;" alt="TensorFlow" />
+  <img src="icons/scikitlearn.svg" width="38" height="38" style="background-color: #2D333B; border-radius: 10px; padding: 5px;" alt="Scikit-Learn" />
+  <img src="icons/opencv.svg" width="38" height="38" style="background-color: #2D333B; border-radius: 10px; padding: 5px;" alt="OpenCV" />
+  <img src="icons/conda.svg" width="38" height="38" style="background-color: #2D333B; border-radius: 10px; padding: 5px;" alt="Conda" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" width="38" height="38" style="background-color: #2D333B; border-radius: 10px; padding: 5px;" alt="LaTeX" />
+  <img src="icons/hugging-face.svg" width="38" height="38" style="background-color: #2D333B; border-radius: 10px; padding: 5px;" alt="Transformers" />
+  <img src="icons/numpy.svg" width="38" height="38" style="background-color: #2D333B; border-radius: 10px; padding: 5px;" alt="NumPy" />
+  <img src="icons/pandas.svg" width="38" height="38" style="background-color: #2D333B; border-radius: 10px; padding: 5px;" alt="Pandas" />
+  <img src="icons/polars.svg" width="38" height="38" style="background-color: #2D333B; border-radius: 10px; padding: 5px;" alt="Polars" />
+  <img src="icons/matplotlib.svg" width="38" height="38" style="background-color: #2D333B; border-radius: 10px; padding: 5px;" alt="Matplotlib" />
+  <img src="icons/seaborn.svg" width="38" height="38" style="background-color: #2D333B; border-radius: 10px; padding: 5px;" alt="Seaborn" />
+  <img src="icons/plotly.svg" width="38" height="38" style="background-color: #2D333B; border-radius: 10px; padding: 5px;" alt="Plotly" />
+  <img src="icons/networkX.svg" width="38" height="38" style="background-color: #2D333B; border-radius: 10px; padding: 5px;" alt="NetworkX" />
+  <img src="icons/jupyter.svg" width="38" height="38" style="background-color: #2D333B; border-radius: 10px; padding: 5px;" alt="Jupyter" />
+  <img src="icons/uv.svg" width="38" height="38" style="background-color: #2D333B; border-radius: 10px; padding: 5px;" alt="UV" />
+  <img src="icons/SpaCy.svg" width="38" height="38" style="background-color: #2D333B; border-radius: 10px; padding: 5px;" alt="SpaCy" />
+  <img src="icons/XGBoost.svg" width="38" height="38" style="background-color: #2D333B; border-radius: 10px; padding: 5px;" alt="XGBoost" />
+  <img src="icons/langchain.svg" width="38" height="38" style="background-color: #2D333B; border-radius: 10px; padding: 5px;" alt="LangChain" />
+  <img src="icons/llama-index.svg" width="38" height="38" style="background-color: #2D333B; border-radius: 10px; padding: 5px;" alt="LlamaIndex" />
+  <img src="icons/wandb.svg" width="38" height="38" style="background-color: #2D333B; border-radius: 10px; padding: 5px;" alt="Weights & Biases" />
+  <img src="icons/apache-spark.svg" width="38" height="38" style="background-color: #2D333B; border-radius: 10px; padding: 5px;" alt="Apache Spark" />
+  <img src="icons/ollama.svg" width="38" height="38" style="background-color: #2D333B; border-radius: 10px; padding: 5px;" alt="Ollama" />
+  <img src="icons/vLLM.svg" width="38" height="38" style="background-color: #2D333B; border-radius: 10px; padding: 5px;" alt="vLLM" />
+  <img src="icons/ray.svg" width="38" height="38" style="background-color: #2D333B; border-radius: 10px; padding: 5px;" alt="Ray" />
+  <img src="icons/bentoML.svg" width="38" height="38" style="background-color: #2D333B; border-radius: 10px; padding: 5px;" alt="BentoML" />
+  <img src="icons/onnx.svg" width="38" height="38" style="background-color: #2D333B; border-radius: 10px; padding: 5px;" alt="ONNX" />
+</div>
+
+### Core Systems (Backend)
+<div align="left">
+  <img src="icons/nodejs.svg" width="38" height="38" style="background-color: #2D333B; border-radius: 10px; padding: 5px;" alt="Node.js" />
+  <img src="icons/express.svg" width="38" height="38" style="background-color: #2D333B; border-radius: 10px; padding: 5px;" alt="Express" />
+  <img src="icons/fastapi.svg" width="38" height="38" style="background-color: #2D333B; border-radius: 10px; padding: 5px;" alt="FastAPI" />
+  <img src="icons/postgresql.svg" width="38" height="38" style="background-color: #2D333B; border-radius: 10px; padding: 5px;" alt="PostgreSQL" />
+  <img src="icons/supabase.svg" width="38" height="38" style="background-color: #2D333B; border-radius: 10px; padding: 5px;" alt="Supabase" />
+  <img src="icons/flask.svg" width="38" height="38" style="background-color: #2D333B; border-radius: 10px; padding: 5px;" alt="Flask" />
+  <img src="icons/django.svg" width="38" height="38" style="background-color: #2D333B; border-radius: 10px; padding: 5px;" alt="Django" />
+  <img src="icons/prisma.svg" width="38" height="38" style="background-color: #2D333B; border-radius: 10px; padding: 5px;" alt="Prisma" />
+  <img src="icons/sqlite.svg" width="38" height="38" style="background-color: #2D333B; border-radius: 10px; padding: 5px;" alt="SQLite" />
+  <img src="icons/mysql.svg" width="38" height="38" style="background-color: #2D333B; border-radius: 10px; padding: 5px;" alt="MySQL" />
+  <img src="icons/mongodb.svg" width="38" height="38" style="background-color: #2D333B; border-radius: 10px; padding: 5px;" alt="MongoDB" />
+  <img src="icons/redis.svg" width="38" height="38" style="background-color: #2D333B; border-radius: 10px; padding: 5px;" alt="Redis" />
+  <img src="icons/vercel.svg" width="38" height="38" style="background-color: #2D333B; border-radius: 10px; padding: 5px;" alt="Vercel" />
+  <img src="icons/cloudflare.svg" width="38" height="38" style="background-color: #2D333B; border-radius: 10px; padding: 5px;" alt="Cloudflare" />
+  <img src="icons/cloudflare-workers.svg" width="38" height="38" style="background-color: #2D333B; border-radius: 10px; padding: 5px;" alt="Workers" />
+  <img src="icons/graphQL.svg" width="38" height="38" style="background-color: #2D333B; border-radius: 10px; padding: 5px;" alt="GraphQL" />
+  <img src="icons/postman.svg" width="38" height="38" style="background-color: #2D333B; border-radius: 10px; padding: 5px;" alt="Postman" />
+  <img src="icons/nginx.svg" width="38" height="38" style="background-color: #2D333B; border-radius: 10px; padding: 5px;" alt="Nginx" />
+  <img src="icons/actix-web.svg" width="38" height="38" style="background-color: #2D333B; border-radius: 10px; padding: 5px;" alt="Actix Web" />
+  <img src="icons/axios.svg" width="38" height="38" style="background-color: #2D333B; border-radius: 10px; padding: 5px;" alt="Axios" />
+  <img src="icons/hono.svg" width="38" height="38" style="background-color: #2D333B; border-radius: 10px; padding: 5px;" alt="Hono.js" />
+  <img src="icons/zod.svg" width="38" height="38" style="background-color: #2D333B; border-radius: 10px; padding: 5px;" alt="Zod" />
+  <img src="icons/qdrant.svg" width="38" height="38" style="background-color: #2D333B; border-radius: 10px; padding: 5px;" alt="Qdrant" />
+  <img src="icons/digital-ocean.svg" width="38" height="38" style="background-color: #2D333B; border-radius: 10px; padding: 5px;" alt="Digital Ocean" />
+  <img src="icons/fly.svg" width="38" height="38" style="background-color: #2D333B; border-radius: 10px; padding: 5px;" alt="Fly" />
+  <img src="icons/grpc.svg" width="38" height="38" style="background-color: #2D333B; border-radius: 10px; padding: 5px;" alt="gRPC" />
+  <img src="icons/swagger.svg" width="38" height="38" style="background-color: #2D333B; border-radius: 10px; padding: 5px;" alt="Swagger" />
+  <img src="icons/openapi.svg" width="38" height="38" style="background-color: #2D333B; border-radius: 10px; padding: 5px;" alt="OpenAPI" />
+  <img src="icons/jwt.svg" width="38" height="38" style="background-color: #2D333B; border-radius: 10px; padding: 5px;" alt="JWT" />
+  <img src="icons/mailgun.svg" width="38" height="38" style="background-color: #2D333B; border-radius: 10px; padding: 5px;" alt="Mailgun" />
+  <img src="icons/cloudinary.svg" width="38" height="38" style="background-color: #2D333B; border-radius: 10px; padding: 5px;" alt="Cloudinary" />
+</div>
+
+### Neural Interface (Frontend)
+<div align="left">
+  <img src="icons/astro.svg" width="38" height="38" style="background-color: #2D333B; border-radius: 10px; padding: 5px;" alt="Astro" />
+  <img src="icons/tailwindcss.svg" width="38" height="38" style="background-color: #2D333B; border-radius: 10px; padding: 5px;" alt="Tailwind CSS" />
+  <img src="icons/solidjs.svg" width="38" height="38" style="background-color: #2D333B; border-radius: 10px; padding: 5px;" alt="Solid.js" />
+  <img src="icons/react.svg" width="38" height="38" style="background-color: #2D333B; border-radius: 10px; padding: 5px;" alt="React" />
+  <img src="icons/nextjs.svg" width="38" height="38" style="background-color: #2D333B; border-radius: 10px; padding: 5px;" alt="Next.js" />
+  <img src="icons/material-ui.svg" width="38" height="38" style="background-color: #2D333B; border-radius: 10px; padding: 5px;" alt="Material UI" />
+  <img src="icons/vitejs.svg" width="38" height="38" style="background-color: #2D333B; border-radius: 10px; padding: 5px;" alt="Vite" />
+  <img src="icons/deno.svg" width="38" height="38" style="background-color: #2D333B; border-radius: 10px; padding: 5px;" alt="Deno" />
+  <img src="icons/daisyui.svg" width="38" height="38" style="background-color: #2D333B; border-radius: 10px; padding: 5px;" alt="Daisy UI" />
+  <img src="icons/auth0.svg" width="38" height="38" style="background-color: #2D333B; border-radius: 10px; padding: 5px;" alt="Auth0" />
+  <img src="icons/framer.svg" width="38" height="38" style="background-color: #2D333B; border-radius: 10px; padding: 5px;" alt="Framer" />
+  <img src="icons/gradio.svg" width="38" height="38" style="background-color: #2D333B; border-radius: 10px; padding: 5px;" alt="Gradio" />
+  <img src="icons/streamlit.svg" width="38" height="38" style="background-color: #2D333B; border-radius: 10px; padding: 5px;" alt="Streamlit" />
+  <img src="icons/partytown.svg" width="38" height="38" style="background-color: #2D333B; border-radius: 10px; padding: 5px;" alt="Partytown" />
+  <img src="icons/pwa.svg" width="38" height="38" style="background-color: #2D333B; border-radius: 10px; padding: 5px;" alt="PWA" />
+</div>
+
+### Universal Tools
+<div align="left">
+  <img src="icons/aws.svg" width="38" height="38" style="background-color: #2D333B; border-radius: 10px; padding: 5px;" alt="AWS" />
+  <img src="icons/microsoft-azure.svg" width="38" height="38" style="background-color: #2D333B; border-radius: 10px; padding: 5px;" alt="Azure" />
+  <img src="icons/google-cloud.svg" width="38" height="38" style="background-color: #2D333B; border-radius: 10px; padding: 5px;" alt="GCP" />
+  <img src="icons/docker.svg" width="38" height="38" style="background-color: #2D333B; border-radius: 10px; padding: 5px;" alt="Docker" />
+  <img src="icons/git.svg" width="38" height="38" style="background-color: #2D333B; border-radius: 10px; padding: 5px;" alt="Git" />
+  <img src="icons/github.svg" width="38" height="38" style="background-color: #2D333B; border-radius: 10px; padding: 5px;" alt="GitHub" />
+  <img src="icons/github-actions.svg" width="38" height="38" style="background-color: #2D333B; border-radius: 10px; padding: 5px;" alt="GitHub Actions" />
+  <img src="icons/visual-studio-code.svg" width="38" height="38" style="background-color: #2D333B; border-radius: 10px; padding: 5px;" alt="VS Code" />
+  <img src="icons/vim.svg" width="38" height="38" style="background-color: #2D333B; border-radius: 10px; padding: 5px;" alt="Vim" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="38" height="38" style="background-color: #2D333B; border-radius: 10px; padding: 5px;" alt="Linux" />
+  <img src="icons/podman.svg" width="38" height="38" style="background-color: #2D333B; border-radius: 10px; padding: 5px;" alt="Podman" />
+  <img src="icons/shuttle.svg" width="38" height="38" style="background-color: #2D333B; border-radius: 10px; padding: 5px;" alt="Shuttle" />
+  <img src="icons/hasura.svg" width="38" height="38" style="background-color: #2D333B; border-radius: 10px; padding: 5px;" alt="Hasura" />
+  <img src="icons/windsurf.svg" width="38" height="38" style="background-color: #2D333B; border-radius: 10px; padding: 5px;" alt="Windsurf" />
+  <img src="icons/antigravity.svg" width="38" height="38" style="background-color: #2D333B; border-radius: 10px; padding: 5px;" alt="Antigravity" />
+  <img src="icons/warp.svg" width="38" height="38" style="background-color: #2D333B; border-radius: 10px; padding: 5px;" alt="Warp" />
+  <img src="icons/vivaldi.svg" width="38" height="38" style="background-color: #2D333B; border-radius: 10px; padding: 5px;" alt="Vivaldi" />
+  <img src="icons/starship.svg" width="38" height="38" style="background-color: #2D333B; border-radius: 10px; padding: 5px;" alt="Starship" />
+  <img src="icons/snyk.svg" width="38" height="38" style="background-color: #2D333B; border-radius: 10px; padding: 5px;" alt="Snyk" />
+  <img src="icons/ffmpeg.svg" width="38" height="38" style="background-color: #2D333B; border-radius: 10px; padding: 5px;" alt="FFmpeg" />
+</div>
+
+### Web3
+<div align="left">
+  <img src="icons/solidity.svg" width="38" height="38" style="background-color: #2D333B; border-radius: 10px; padding: 5px;" alt="Solidity" />
+  <img src="icons/webassembly.svg" width="38" height="38" style="background-color: #2D333B; border-radius: 10px; padding: 5px;" alt="Wasm" />
+  <img src="icons/solana.svg" width="38" height="38" style="background-color: #2D333B; border-radius: 10px; padding: 5px;" alt="Solana" />
+  <img src="icons/ethereum.svg" width="38" height="38" style="background-color: #2D333B; border-radius: 10px; padding: 5px;" alt="Ethereum" />
+  <img src="icons/metamask.svg" width="38" height="38" style="background-color: #2D333B; border-radius: 10px; padding: 5px;" alt="MetaMask" />
+</div>
+
+<br>
+
+# 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rony0000013&theme=tokyonight" alt="Profile Details" height="180" />
+  <img src="https://streak-stats.demolab.com?user=rony0000013&theme=tokyonight&hide_border=true" height="180" alt="Streak" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rony0000013&theme=tokyonight" height="180" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rony0000013&theme=tokyonight" height="180" />
+</div>
+
+<br>
+
+# 🎧 Spotify Activity
 
 <div align="center">
   <a href="https://open.spotify.com/user/rony0000013">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31k725cf66s6flos4zubb2m2m5cy&unique={true|1|on|yes}" alt="Spotify recently played"  />
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31k725cf66s6flos4zubb2m2m5cy&unique={true|1|on|yes}" alt="Spotify activity" />
   </a>
 </div>
-<br>
-
-# 🤣 Random Meme 😁
-
-<img height=500 src="https://random-memer.rounaksen.repl.co" alt="Random Meme"/>
 
 <br>
 
-## 🔢 Visitor Count :
+# 👨‍💻 Programming Humor
+
 <div align="center">
+  <img src="https://random-meme-api.rony000013.workers.dev" alt="Programming Meme" height="400" style="border-radius: 10px;" />
+</div>
 
-![](https://profile-counter.glitch.me/rony/count.svg?)
+<br>
+
+<div align="center">
+  <img src="https://visitor-counter.rony000013.workers.dev/github-readme" alt="Visitor Count" />
+  <p><i>Based in Kolkata, India 🇮🇳</i></p>
 </div>
